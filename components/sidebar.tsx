@@ -25,7 +25,7 @@ const navItems = [
     icon: Users,
     children: [
       { name: "Brian Le", href: "/opponents/brian-le" },
-      { name: "Gerald F.", href: "/opponents/gerald-f" },
+      { name: "Gerald", href: "/opponents/gerald" },
     ],
   },
   {
